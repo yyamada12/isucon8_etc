@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!nginx/
+!mysql/
+mysql/debian.cnf
+!sysctl.conf
+!my.cnf
+!my.cnf.d/
